@@ -1,2 +1,2 @@
 # aes256-twofish-spe..
-khong co gi db
+bro co gang crack nhe
